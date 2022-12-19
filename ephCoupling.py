@@ -4,8 +4,6 @@ from neuron.units import ms , mV
 import matplotlib.pyplot as plt
 import numpy as np
 import os
-# import pandas as pd
-# import feather
 import math
 h.load_file('stdrun.hoc')
 
